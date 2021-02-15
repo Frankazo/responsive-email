@@ -1,1 +1,1 @@
-## Responsive Email Template
+## Simple Responsive Email Template For Job Application
